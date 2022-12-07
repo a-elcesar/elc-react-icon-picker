@@ -19,13 +19,13 @@ I feel like an icon picker is a pretty common requirement so I was surprised to 
 Install via npm
 
 ```cli
-npm install elcesar-react-fa-icon-picker
+npm i elc-react-icon-picker
 ```
 
 or yarn
 
 ```cli
-yarn add elcesar-react-fa-icon-picker
+yarn add elc-react-icon-picker
 ```
 
 ## Usage
