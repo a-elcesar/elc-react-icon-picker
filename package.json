@@ -1,5 +1,5 @@
 {
-  "name": "elcesar-react-fa-icon-picker",
+  "name": "elc-react-icon-picker",
   "version": "1.0.0",
   "description": "An icon picker for font-awesome icons",
   "main": "dist/index.js",
