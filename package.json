@@ -1,6 +1,6 @@
 {
   "name": "elc-react-icon-picker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An icon picker for font-awesome icons",
   "main": "dist/index.js",
   "scripts": {
@@ -40,6 +40,6 @@
   "dependencies": {
     "csstype": "^2.6.10",
     "react-icons": "^3.10.0",
-    "styled-components": "^5.3.6"
+    "styled-components": "6.0.0-alpha.0"
   }
 }
