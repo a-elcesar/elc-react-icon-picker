@@ -1,5 +1,5 @@
 import * as React from 'react'
-import styled from 'styled-components'
+import styled from 'elc-styled-components'
 import { IconPickerItem, iconList } from '.'
 import { useState, useEffect, useRef } from 'react'
 import * as CSS from 'csstype'
